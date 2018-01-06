@@ -1,0 +1,2 @@
+# dotfiles
+Common configuration files
